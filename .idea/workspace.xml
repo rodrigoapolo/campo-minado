@@ -1,0 +1,190 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="395f983e-3022-472e-99e2-549791afa17d" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/junit_jupiter.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/campo-minado.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/io/rodrigoapolo/campominado/excecao/ExplosaoException.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/io/rodrigoapolo/campominado/modelo/Campo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/io/rodrigoapolo/campominado/modelo/CampoTeste.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/io/rodrigoapolo/campominado/modelo/Tabuleiro.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test/test.iml" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProjectId" id="2BzrD0F0YKnvICNSogZG10fgNxP" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "Downloaded.Files.Path.Enabled": "false",
+    "Repository.Attach.Annotations": "false",
+    "Repository.Attach.JavaDocs": "false",
+    "Repository.Attach.Sources": "false",
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "create.test.in.the.same.root": "true",
+    "jdk.selected.JAVA_MODULE": "11",
+    "last_directory_selection": "/home/rodrigoapolo/Projetos/Java/campo-minado/src/io/rodrigoapolo/campominado/modelo",
+    "last_opened_file_path": "/home/rodrigoapolo/Projetos/Java/campo-minado/test/src",
+    "project.structure.last.edited": "Modules",
+    "project.structure.proportion": "0.15",
+    "project.structure.side.proportion": "0.2",
+    "run.code.analysis.last.selected.profile": "pProject Default",
+    "settings.editor.selected.configurable": "copyright"
+  }
+}]]></component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/src/io/rodrigoapolo" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/test/src" />
+    </key>
+  </component>
+  <component name="RunManager" selected="JUnit.CampoTeste">
+    <configuration name="CampoTeste" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="campo-minado" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="io.rodrigoapolo.campominado.modelo.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="io.rodrigoapolo.campominado.modelo" />
+      <option name="MAIN_CLASS_NAME" value="io.rodrigoapolo.campominado.modelo.CampoTeste" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="CampoTeste.testeAbrirComVizinho1" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="campo-minado" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="io.rodrigoapolo.campominado.modelo.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="io.rodrigoapolo.campominado.modelo" />
+      <option name="MAIN_CLASS_NAME" value="io.rodrigoapolo.campominado.modelo.CampoTeste" />
+      <option name="METHOD_NAME" value="testeAbrirComVizinho1" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="CampoTeste.testeAbrirMinadoMarcado" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="campo-minado" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="io.rodrigoapolo.campominado.modelo.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="io.rodrigoapolo.campominado.modelo" />
+      <option name="MAIN_CLASS_NAME" value="io.rodrigoapolo.campominado.modelo.CampoTeste" />
+      <option name="METHOD_NAME" value="testeAbrirMinadoMarcado" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="CampoTeste.testeAbrirMinadoNaoMarcado" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="campo-minado" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="io.rodrigoapolo.campominado.modelo.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="io.rodrigoapolo.campominado.modelo" />
+      <option name="MAIN_CLASS_NAME" value="io.rodrigoapolo.campominado.modelo.CampoTeste" />
+      <option name="METHOD_NAME" value="testeAbrirMinadoNaoMarcado" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="CampoTeste.testeAbrirNaoMinadoMarcado" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="campo-minado" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="io.rodrigoapolo.campominado.modelo.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="io.rodrigoapolo.campominado.modelo" />
+      <option name="MAIN_CLASS_NAME" value="io.rodrigoapolo.campominado.modelo.CampoTeste" />
+      <option name="METHOD_NAME" value="testeAbrirNaoMinadoMarcado" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="JUnit.CampoTeste" />
+        <item itemvalue="JUnit.CampoTeste.testeAbrirComVizinho1" />
+        <item itemvalue="JUnit.CampoTeste.testeAbrirMinadoNaoMarcado" />
+        <item itemvalue="JUnit.CampoTeste.testeAbrirMinadoMarcado" />
+        <item itemvalue="JUnit.CampoTeste.testeAbrirNaoMinadoMarcado" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="395f983e-3022-472e-99e2-549791afa17d" name="Changes" comment="" />
+      <created>1657919631990</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1657919631990</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/campo_minado$CampoTeste.ic" NAME="CampoTeste Coverage Results" MODIFIED="1658177711076" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
+      <FILTER>io.rodrigoapolo.campominado.modelo.*</FILTER>
+    </SUITE>
+  </component>
+</project>
