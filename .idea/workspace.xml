@@ -4,20 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="395f983e-3022-472e-99e2-549791afa17d" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/junit_jupiter.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/campo-minado.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/io/rodrigoapolo/campominado/excecao/ExplosaoException.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/io/rodrigoapolo/campominado/modelo/Campo.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/io/rodrigoapolo/campominado/modelo/CampoTeste.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/io/rodrigoapolo/campominado/modelo/Tabuleiro.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/test/test.iml" afterDir="false" />
-    </list>
+    <list default="true" id="395f983e-3022-472e-99e2-549791afa17d" name="Changes" comment="editando gitignore" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -169,6 +156,21 @@
       <option name="presentableId" value="Default" />
       <updated>1657919631990</updated>
     </task>
+    <task id="LOCAL-00001" summary="first commit">
+      <created>1658185264954</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1658185264954</updated>
+    </task>
+    <task id="LOCAL-00002" summary="editando gitignore">
+      <created>1658185463711</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1658185463711</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -181,6 +183,11 @@
         </entry>
       </map>
     </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="first commit" />
+    <MESSAGE value="editando gitignore" />
+    <option name="LAST_COMMIT_MESSAGE" value="editando gitignore" />
   </component>
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
     <SUITE FILE_PATH="coverage/campo_minado$CampoTeste.ic" NAME="CampoTeste Coverage Results" MODIFIED="1658177711076" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
